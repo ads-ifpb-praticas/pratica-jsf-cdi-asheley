@@ -1,2 +1,2 @@
-# javalijsf
-prática de jsf
+
+prática de jsf e cdi
