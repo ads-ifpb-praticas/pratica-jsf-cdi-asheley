@@ -1,0 +1,7 @@
+br\com\ifpb\pratica\jsf\repositorios\EntityManagerProducer.class
+br\com\ifpb\praticas\jsf\controladores\ControladorPessoa.class
+br\com\ifpb\praticas\jsf\servicos\ServicoPessoa.class
+br\com\ifpb\pratica\jsf\repositorios\Repositorio.class
+br\com\ifpb\praticas\jsf\validador\ValidadorCPF.class
+br\com\ifpb\pratica\jsf\repositorios\RepPessoa.class
+br\com\ifpb\praticas\jsf\entidades\Pessoa.class
